@@ -2,7 +2,8 @@
 
 The extracellular recording of neural signals consists of action potentials from several neurons. The information of the nervous system is encoded in the form of firing frequency or firing time, the first procedure in the interpretation of neuronal signals is the detection of the action potential firing, i.e., the neural spike.
 
-![](Images/signal1.png=150x50)
+![](https://github.com/Mir955/Neuroscience-Analysis-Action-Potential-Event-Identification-from-electrophysiological-time-series-s/blob/master/Images/Signal1.png)
+
 
 Since the proposed action potential detector does not require a quantitative knowledge of the signal and noise of the recording under investigation, it can be utilized for the online or first offline analysis of neural signal recordings, where such quantitative information is not readily available.
 
