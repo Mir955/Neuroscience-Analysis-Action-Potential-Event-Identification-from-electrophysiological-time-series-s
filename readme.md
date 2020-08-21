@@ -15,8 +15,7 @@ In this method, CWT transform to the whole time-series signal is applied to comp
 
 # Dataset: 
 #Few Observations about the dataset:
-![](Images/signal.png=150x50)
-
+![](https://github.com/Mir955/Neuroscience-Analysis-Action-Potential-Event-Identification-from-electrophysiological-time-series-s/blob/master/Images/Signal.png)
 * As the sampling frequency is 50KHz. We can see that each sample is acquired at a gap of 0.02 ms.
 * The whole data is recorded for a time-span of 1.2 s (approx).
 * Depolarizing step is started from 200ms and ended at 1000ms.
